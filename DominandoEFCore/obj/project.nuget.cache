@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAR/bXNeeiaJX/qE+5tCHY8xwyfmGqpt6sVQyv/29Ak+Oyv7CVkn/bjyNmc2W9bG7yzBOvGpvK+up4EKSwa1rQ==",
+  "dgSpecHash": "lzgkc9Wncpwy8gwY/VdZjDkLmj9TPErRUYDX2/3Pyy14UNP3WRBdz3H9sjTtlc+obh0jDtmhXKxgBLZjR+sPww==",
   "success": true,
-  "projectFilePath": "c:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
+  "projectFilePath": "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

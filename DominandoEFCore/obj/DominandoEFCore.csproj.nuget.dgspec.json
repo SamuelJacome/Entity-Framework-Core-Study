@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj": {}
+    "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj": {}
   },
   "projects": {
-    "c:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj": {
+    "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
+        "projectUniqueName": "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
         "projectName": "DominandoEFCore",
-        "projectPath": "c:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
+        "projectPath": "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "c:\\Projetos\\EFCORE\\DominandoEFCore\\obj\\",
+        "outputPath": "C:\\Projetos\\EFCORE\\DominandoEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
