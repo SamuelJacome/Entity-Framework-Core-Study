@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj": {}
+    "C:\\projetos\\Entity-Framework-Core-Study\\DominandoEFCore\\DominandoEFCore.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj": {
+    "C:\\projetos\\Entity-Framework-Core-Study\\DominandoEFCore\\DominandoEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
+        "projectUniqueName": "C:\\projetos\\Entity-Framework-Core-Study\\DominandoEFCore\\DominandoEFCore.csproj",
         "projectName": "DominandoEFCore",
-        "projectPath": "C:\\Projetos\\EFCORE\\DominandoEFCore\\DominandoEFCore.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\EFCORE\\DominandoEFCore\\obj\\",
+        "projectPath": "C:\\projetos\\Entity-Framework-Core-Study\\DominandoEFCore\\DominandoEFCore.csproj",
+        "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\Entity-Framework-Core-Study\\DominandoEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ssa-desenv.tjto.jus.br/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -44,6 +43,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.0, )"

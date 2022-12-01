@@ -15,8 +15,8 @@ namespace DominandoEFCore.Data
             const string strConnection = "Data source=(localdb)\\mssqllocaldb; Initial Catalog=C002;Integrated Security=true;pooling=true;";
             optionsBuilder
                .UseSqlServer(strConnection)
-               .EnableSensitiveDataLogging()
-               .LogTo(Console.WriteLine, LogLevel.Information);
+               .EnableSensitiveDataLogging();
+            //    .LogTo(Console.WriteLine, LogLevel.Information);
             //.UseLazyLoadingProxies()
         }
     }
