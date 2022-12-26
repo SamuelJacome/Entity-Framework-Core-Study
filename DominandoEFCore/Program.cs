@@ -189,5 +189,12 @@ namespace DominandoEFCore
 
             Console.WriteLine(script);
         }
+    // Módulo de Infraestrutura
+
+        static void SearchDepartaments ()
+        {
+            using var db = new
+        }
+
     }
 }
