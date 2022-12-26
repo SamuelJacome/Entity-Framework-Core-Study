@@ -1,3 +1,5 @@
+using src.Domain.Abstract;
+
 namespace src.Domain
 {
     public class Product : BaseEntity

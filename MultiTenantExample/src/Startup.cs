@@ -52,6 +52,8 @@ namespace EFCore.Multitenant
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "EFCore.Multitenant v1"));
             }
 
+            DatabaseInitialize(app);
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
@@ -76,6 +78,8 @@ namespace EFCore.Multitenant
                 db.People.Add(new Person { Name = $"Person {i}" });
                 db.Products.Add(new Product { Description = $"Product {i}" });
             }
+
+            db.SaveChanges();
         }
     }
 }

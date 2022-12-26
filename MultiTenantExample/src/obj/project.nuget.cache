@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZIj1YqsRaulsBpUmlc+168Ra5Pi7PdcVganqiuo0pwge0XlkaiyWJ4acTNcNI0PUJV+QmrmmZ9lv+InhGkPVDw==",
+  "dgSpecHash": "36hphaJFOyt0tpH0zfdTj1GVBk0SpTmIvmPfdPtitpd4ZHdx5sOYrbhocxum15/mfxwm/KzQ2MvQwCrIz9HQcg==",
   "success": true,
   "projectFilePath": "C:\\projetos\\Entity-Framework-Core-Study\\MultiTenantExample\\src\\EFCore.Multitenant.csproj",
   "expectedPackageFiles": [
