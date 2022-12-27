@@ -8,7 +8,7 @@ using src.Domain;
 namespace src.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("{tenant}/[controller]")]
     public class ProductController : ControllerBase
     {
         private readonly ILogger<ProductController> _logger;
